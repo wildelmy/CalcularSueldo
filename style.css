@@ -1,0 +1,23 @@
+body {
+    font-family: cursive;
+    background: #ff9966; 
+    background: linear-gradient(to right, #ff5e62, #ff9966);
+}
+#box {
+    margin: auto;
+    align-items: center;
+    width: 450px;
+    height: 300px;
+    text-align: center;
+    background-color: beige;
+    border-radius: 20px;
+    -webkit-box-shadow: 3px 6px 33px -1px rgba(0,0,0,0.81); 
+    box-shadow: 3px 6px 33px -1px rgba(0,0,0,0.81);
+}
+#title {
+    margin-bottom: 0%;
+}
+
+#content { 
+    margin-top: 20px;
+}
